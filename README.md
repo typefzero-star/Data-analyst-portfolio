@@ -15,8 +15,19 @@ Fabric projects:
 
 [Group Data analysis with MLR](https://app.fabric.microsoft.com/groups/2095fe20-0f56-4c9c-9ba8-811fa35741ec/synapsenotebooks/886ae187-de77-47dc-9971-ed31263f66e7?experience=fabric-developer&clientSideAuth=0)
 
+Education: 
 
-Contacts 
+NCEA Levels  1-3 & University entrance 
+
+Diploma in Multimedia - Natcoll - Level 4
+
+Diploma in 3D Animation - Natcoll - Level 5
+
+Micro credential in Data Analytics - Mission Ready - Level 5
+
+
+Contacts:
+
 email: alphafzero@gmail.com
 
 Linkdin: [Francis-Vega](https://www.linkedin.com/in/francis-vega-926472391/).
