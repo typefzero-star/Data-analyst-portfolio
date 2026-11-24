@@ -18,4 +18,6 @@ Fabric projects:
 
 Contacts 
 email: alphafzero@gmail.com
-Linkdin: [@Francis_Vega]([https://linkedin.com](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWw3LVWFWR9iLzjsKtQhnhA%3D%3D))
+
+Linkdin: [Francis-Vega](www.linkedin.com/in/francis-vega-926472391).
+
