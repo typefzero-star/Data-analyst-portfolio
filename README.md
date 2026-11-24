@@ -9,7 +9,8 @@ My CV is viewable [here](Resume.pdf).
 
 Fabric projects: 
 
-[Pandas DF exploration project]([https://microsoft.com...](https://app.fabric.microsoft.com/groups/64932aee-d0c3-430b-b96a-f8ceca8bce7e/synapsenotebooks/52739470-307f-4be5-b6dd-f498b2621018?experience=fabric-developer&clientSideAuth=0))
+Pandas DF exploration project [Microsoft Fabric]([https://microsoft.com](https://app.fabric.microsoft.com/groups/64932aee-d0c3-430b-b96a-f8ceca8bce7e/synapsenotebooks/52739470-307f-4be5-b6dd-f498b2621018?experience=fabric-developer&clientSideAuth=0))).
+
 
 [EDA with sales Data ]([https://microsoft.com...](https://app.fabric.microsoft.com/groups/64932aee-d0c3-430b-b96a-f8ceca8bce7e/synapsenotebooks/5c34e25d-d5e7-4ce9-860f-a5a99edd5957?experience=fabric-developer&clientSideAuth=0))
 
